@@ -33,10 +33,10 @@ Welcome to the Music Tags and Lyrics Website! This tool allows users to input an
 4. **Lyrics Retrieval**: Fetches song lyrics from Genius using their API.
 5. **Display Results**: The backend sends the data back to the frontend, which displays the tags, genres, and lyrics.
 
-### Home Screen
+### Initial Load In
 
 ![Home Screen](https://github.com/tranbren/Music-Tags-and-Lyrics-Website/blob/main/InitialLoadup.png)
 
-### Search Results
+### Tags/Lyrics Display
 
 ![Search Results](https://github.com/tranbren/Music-Tags-and-Lyrics-Website/blob/main/SongEntry.png)
