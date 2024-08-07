@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "scripts": {
+    "start": "concurrently \"npm run react\" \"npm run django\"",
+    "react": "cd frontend && npm run dev", 
+    "django": "cd backend && python manage.py runserver" 
+  }
+}

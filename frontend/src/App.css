@@ -1,0 +1,40 @@
+/* Styles for the lyrics container */
+.lyrics-container {
+    margin-top: 2.5rem; /* Equivalent to mt-10 in Tailwind */
+    max-width: 600px;
+}
+
+/* Styles for the lyrics title and list */
+.lyrics-title {
+    font-size: 1.5rem; /* Equivalent to text-2xl */
+    font-weight: 600; /* Equivalent to font-semibold */
+    margin-bottom: 15px; /* Equivalent to mb-2 */
+    color: #22c55e; /* Equivalent to text-green-500 */
+    text-align: center; /* Equivalent to text-center */
+}
+
+.lyrics-content {
+    padding: 0.5rem 1rem; /* Equivalent to px-4 py-2 */
+    border-radius: 0.5rem; /* Equivalent to rounded-lg */
+    scrollbar-width: thin; /* For Firefox */
+    max-height: 670px;
+    overflow-y: auto;
+    background: linear-gradient(45deg, #000000, #1b1d1c); /* Diagonal gradient */
+    border: 2px solid #16a34a;
+    border-radius: 8px;
+}
+
+/* Styles for list items */
+.lyrics-list {
+    list-style-type: none; /* Equivalent to list-none */
+    font-size: 1.125rem; /* Equivalent to text-lg */
+    text-align: left; /* Equivalent to text-center */
+    margin: 0; /* Ensure no extra margin */
+    padding: 0; /* Ensure no extra padding */
+}
+
+.lyrics-list-item {
+    margin-bottom: 0.5rem; /* Equivalent to space-y-2 */
+    color: #21b156; /* Equivalent to text-green-500 */
+    font-weight: 500; /* Equivalent to font-bold */
+}
