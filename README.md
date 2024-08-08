@@ -15,6 +15,7 @@ Welcome to the Music Tags and Lyrics Website! This tool allows users to input an
 - **[Vite](https://vitejs.dev/)**: For fast and efficient development.
 - **[Tailwind CSS](https://tailwindcss.com/)**: For styling and layout.
 - **[DaisyUI](https://daisyui.com/)**: For pre-styled UI components.
+- **[Lottie Files](https://lottiefiles.com/)**: For Animation components.
 
 ### Backend
 
