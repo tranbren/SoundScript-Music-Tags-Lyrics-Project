@@ -36,8 +36,8 @@ Welcome to the Music Tags and Lyrics Website! This tool allows users to input an
 
 ### Initial Load In
 
-![Home Screen](https://github.com/tranbren/Music-Tags-and-Lyrics-Website/blob/main/InitialLoadup.png)
+![Home Screen](https://github.com/tranbren/Music-Tags-Lyrics-Project/blob/main/InitialLoadup.png)
 
 ### Tags/Lyrics Display
 
-![Search Results](https://github.com/tranbren/Music-Tags-and-Lyrics-Website/blob/main/SongEntry.png)
+![Search Results](https://github.com/tranbren/Music-Tags-Lyrics-Project/blob/main/SongEntry.png)
