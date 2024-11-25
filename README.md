@@ -1,6 +1,6 @@
 # SoundScript - Music Tags and Lyrics Website 🎶
 
-Welcome to SoundScript, a Music Tags and Lyrics Website! This tool allows users to input an artist and song title to find related tags and genres, and fetches song lyrics from Genius. Perfect for music enthusiasts and anyone looking to explore more about their favorite songs!
+Welcome to SoundScript, a Music Tags and Lyrics Website! This tool allows users to input an artist and song title to find related tags and genres, and fetches song lyrics. Perfect for music enthusiasts and anyone looking to explore more about their favorite songs!
 
 ## Features
 
